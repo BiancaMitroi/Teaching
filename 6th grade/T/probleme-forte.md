@@ -23,19 +23,19 @@
 2. Știind că simbolurile mărimilor fizice şi ale unităţilor de măsură sunt cele utilizate în manualele de fizică,
 unitatea de măsură a mărimii mg este:
 
-- a) kg * m/s^2^
+- a) kg * m/s²
 - b) m/s
-- c) m/s^2^
+- c) m/s²
 - d) kg * m/s
 
 ### Varianta 8 subiectul 1
 
 1. Densitatea 10 g/ cm^3^, exprimată în unităţi din S.I. are valoarea:
 
-- a) 10^4^ kg/m^3^
-- b) 1000 kg/m^3^
-- c) 100 kg/m^3^
-- d) 10 kg/m^3^
+- a) 10^4^ kg/m³
+- b) 1000 kg/m³
+- c) 100 kg/m³
+- d) 10 kg/m³
 
 ### Varianta 9 subiectul 1
 
