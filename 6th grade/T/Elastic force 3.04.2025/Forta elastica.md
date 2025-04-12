@@ -1,4 +1,4 @@
-# Forta elastica [Sursa](./forta_elastica_fisa_de_lucru.docx)
+# Forta elastica [Sursa](../probleme%20recomandate/forta_elastica_fisa_de_lucru.docx)
 
 ## 1. Asupra unui resort cu constanta elastică 1000 N/m acționează o forță de 30 N. Care va fi alungirea resortului? Ce valoare are forța elastică ce apare în resort?
 

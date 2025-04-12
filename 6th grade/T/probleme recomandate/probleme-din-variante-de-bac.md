@@ -47,3 +47,14 @@ de 30m/s . Viteza medie a trenului pe întreaga distanţă este:
 - c) 51 m/s
 - d) 102 m/s
 
+## Surse
+- [fizichim - reprezentare forte asupra unui corp](https://www.fizichim.ro/docs/fizica/clasa7/capitolu$l_2$-interactiuni-mecanice/II-17-sinteza-recapitulativa-interactiuni-mecanice/II-17-2-reprezentarea-fortelor-ce-actioneaza-asupra-unui-corp/)
+
+## Exercitii
+
+1. Un corp  are  masa m = 2 kg. Aflati  greutatea corpului  cunoscand 
+g = 10 m/s2.
+
+2. Un corp cu masa m = 5 kg se deplaseaza rectiliniu uniform pe un plan orizontal cu µ = 0,2 sub actiunea unei forte F. Aflati valoarea fortei F cunoscand g = 10 m/s2.
+
+3. Un corp cu masa m = 12 kg se deplaseaza rectiliniu uniform pe un plan orizontal cu µ = 0,4 sub actiunea unei forte F. Aflati valoarea fortei F cunoscand g = 10 m/s2.
