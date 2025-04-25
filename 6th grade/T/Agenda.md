@@ -1,3 +1,6 @@
+### Friday, 25.04.2025
+- acelasi topic (densitatea)
+
 ### Thursday, 10.04.2025
 
 For the next meeting, the topic would be: densitate, volum (test next Thursday)

@@ -1,3 +1,11 @@
+### Recomandari de pb pentru test din 9_Probleme-Forta-de-frecare:
+- toate pb
+
+### Recomandari de pb pentru test din TIPURI DE FORTE G Fe_Antici Adina:
+- 8
+- 9
+- 10
+
 ### Recomandari de pb pentru test din culegerea macesan:
 - pagina 11 exercitiile (marimi fizice)
     - 1.11
@@ -41,8 +49,8 @@
 - paginile 36-37 (de citit teoria la vectori, forte)
 - paginile 38-39 (de consultat problemele, nu trebuiesc neapart facute, le vom putea face la sedinte ulterior)
 - pagina 40 (forta elastica)
-    - 4.14
-    - 4.15
+    - ~~4.14~~
+    - ~~4.15~~
     - 4.16
     - 4.19
 - pagina 42
