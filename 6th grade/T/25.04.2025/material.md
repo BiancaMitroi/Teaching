@@ -22,7 +22,7 @@ $\Delta l_1$ = ? <br>
 $m_1$ = 600 g = 0.6 kg <br>
 $m_2$ = 0.8 kg <br>
 $\Delta l_2$ = ? <br>
-|$\Delta l_1$ - $\Delta l_2$| = 1 cm
+| $\Delta l_1$ - $\Delta l_2$ | = 1 cm
 
 ### Concluzie (se cere)
 k = ?
