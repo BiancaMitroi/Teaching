@@ -56,9 +56,9 @@
 - pagina 42
     - 4
 - pagina 43
-    - 4
+    - ~~4~~
 - pagina 44
-    - 4.2
+    - ~~4.2~~
 
 ### Probleme facute
 - din [00test_clasa_6_a_tipuri_de_forte_nr_1_2_3_4](./probleme%20recomandate/00test_clasa_6_a_tipuri_de_forte_nr_1_2_3_4.docx) (testul 1)
