@@ -4,8 +4,7 @@ Here will be posted the materials studied (physics problems with the context and
 
 ## Partitioning
 
-- Each directory will represents the grade for studying Physics
-- Each grade will have folders that represent the initial(s) of the students for GDPR compliance :)))
+- Each main folder will represent the initial(s) of the students for GDPR compliance :)))
 - For each initial(s) there will be folders/files with the materials studied for each study session
 
 ## Browsing data
