@@ -134,7 +134,7 @@ Alt exemplu: avem numarul 8,231 in baza 10 si vrem sa-l trecem in baza 9.
 
 8 : 9 = 0 rest 8
 
-0,231 * 9 = **2**,079 (1 prima cifra dupa virgula)
+0,231 * 9 = **2**,079 (**2** = prima cifra dupa virgula)
 
 Descompunem iar in parte intreaga si fractionara
 
