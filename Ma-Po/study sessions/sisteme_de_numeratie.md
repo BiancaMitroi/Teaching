@@ -125,7 +125,7 @@ Apoi (plot twist) luam partea fractionara si o inmultim cu baza pana obtinem un 
 Asadar obtinem numarul 4,3 in baza 6.
 
 Cum verificam? Incercam sa il scriem pe 4,3 dupa puterile lui 6
-4,3 = 4 * $6^0$ + 3*$6^{-1}$ = 4 * 1 + 3 * 1/6 = 4 + 0,5 = 4,5 in baza 10 (asta fiind trecerea din baza 6 in baza 10)
+4,3 = 4 * $6^0$ + 3* $6^{-1}$ = 4 * 1 + 3 * 1/6 = 4 + 0,5 = 4,5 in baza 10 (asta fiind trecerea din baza 6 in baza 10)
 
 Alt exemplu: avem numarul 8,231 in baza 10 si vrem sa-l trecem in baza 9.
 
