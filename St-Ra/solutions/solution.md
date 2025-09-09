@@ -14,10 +14,6 @@
 
 $\frac {a} {\Delta b}$
 
-$$
-
-{a^b} \\[0.5em]
-\vec{v} \\[0.5em]
-\frac {a} {\frac {\cancel{b}} {c} - d}
-
-$$
+${a^b}$
+$\vec{v}$
+$\frac {a} {\frac {\cancel{b}} {c} - d}$
