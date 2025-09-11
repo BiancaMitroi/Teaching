@@ -1,16 +1,233 @@
 Note: Here will be posted materials + solutions for high school Physics final exam (Mechanics + Electricity)
 
-(https://www.upyesp.org/posts/makrdown-vscode-math-notation/)
+[markdown notations](https://www.upyesp.org/posts/makrdown-vscode-math-notation/)
 
 ### Links for materials:
-- https://matefizica.wordpress.com/wp-content/uploads/2017/04/e_f_fizica_mecanica.pdf + https://sprefizica.wordpress.com/wp-content/uploads/2013/09/rezolvari-mecanica-2009.pdf
-- https://matefizica.wordpress.com/wp-content/uploads/2017/04/e_f_fizica_producerea_si_utilizarea_curentului_continuu.pdf + https://matefizica.wordpress.com/bacalaureat/examen-fizica/variante-actuale/
-- https://www.studocu.com/ro/document/universitatea-alexandru-ioan-cuza-din-iasi/phylosophy/formule-curent/16349137
+- Materiale mecanica 2009 ([subiecte](https://matefizica.wordpress.com/wp-content/uploads/2017/04/e_f_fizica_mecanica.pdf) + [bareme](https://sprefizica.wordpress.com/wp-content/uploads/2013/09/rezolvari-mecanica-2009.pdf))
+- Materiale curent 2009 ([subiecte](https://matefizica.wordpress.com/wp-content/uploads/2017/04/e_f_fizica_producerea_si_utilizarea_curentului_continuu.pdf) + [bareme](https://matefizica.wordpress.com/bacalaureat/examen-fizica/variante-actuale/))
+
+- [Formule mecanica + termodinamica + curent](https://www.ebacalaureat.ro/bac/lectii/fizica/teorie-FIZICA-bacalaureat.pdf) + [supliment](https://www.studocu.com/ro/document/universitatea-alexandru-ioan-cuza-din-iasi/phylosophy/formule-curent/16349137)
+
+- [Bac romana - 67 de eseuri](https://www.studocu.com/ro/document/colegiul-national-petru-rares/romana/67-de-eseuri-bacalaureat-limba-i-literatura-romana-m-onofreipd/37359989)
 
 ## Agenda
 
 ### 9 septembrie 2025 (marti)
-- orar (periaoda + durata unei sedinte): luni, marti, vineri
-- meditatie: marti seara (provizoriu)
-- resurse (git repo + linkuri)
-- structurare resurse (markdown-uri + diagrame)
+- ~~orar (periaoda + durata unei sedinte)~~: luni, marti, vineri (sedinta: marti, durata: 2h (provizoriu))
+- ~~resurse (git repo + linkuri)~~
+- ~~structurare resurse (markdown-uri + diagrame)~~
+
+### 16 septembrie
+- curent 2009 var 1 sub 3
+- mecanica 2009 var 1
+- curent 2009 var 2
+
+## Progres Mecanica 2009
+
+|var|sub 1|sub 2|sub 3|
+|-|-|-|-|
+|**1**|&#x2714;|&#x2714;||
+|**2**||||
+|**3**||||
+|**4**||||
+|**5**||||
+|**6**||||
+|**7**||||
+|**8**||||
+|**9**||||
+|**10**||||
+|**11**||||
+|**12**||||
+|**13**||||
+|**14**||||
+|**15**||||
+|**16**||||
+|**17**||||
+|**18**||||
+|**19**||||
+|**20**||||
+|**21**||||
+|**22**||||
+|**23**||||
+|**24**||||
+|**25**||||
+|**26**||||
+|**27**||||
+|**28**||||
+|**29**||||
+|**30**||||
+|**31**||||
+|**32**||||
+|**33**||||
+|**34**||||
+|**35**||||
+|**36**||||
+|**37**||||
+|**38**||||
+|**39**||||
+|**40**||||
+|**41**||||
+|**42**||||
+|**43**||||
+|**44**||||
+|**45**||||
+|**46**||||
+|**47**||||
+|**48**||||
+|**49**||||
+|**50**||||
+|**51**||||
+|**52**||||
+|**53**||||
+|**54**||||
+|**55**||||
+|**56**||||
+|**57**||||
+|**58**||||
+|**59**||||
+|**60**||||
+|**61**||||
+|**62**||||
+|**63**||||
+|**64**||||
+|**65**||||
+|**66**||||
+|**67**||||
+|**68**||||
+|**69**||||
+|**70**||||
+|**71**||||
+|**72**||||
+|**73**||||
+|**74**||||
+|**75**||||
+|**76**||||
+|**77**||||
+|**78**||||
+|**79**||||
+|**80**||||
+|**81**||||
+|**82**||||
+|**83**||||
+|**84**||||
+|**85**||||
+|**86**||||
+|**87**||||
+|**88**||||
+|**89**||||
+|**90**||||
+|**91**||||
+|**92**||||
+|**93**||||
+|**94**||||
+|**95**||||
+|**96**||||
+|**97**||||
+|**98**||||
+|**99**||||
+|**100**||||
+
+## Progres Curent 2009
+
+|var|sub 1|sub 2|sub 3|
+|-|-|-|-|
+|**1**||||
+|**2**||||
+|**3**||||
+|**4**||||
+|**5**||||
+|**6**||||
+|**7**||||
+|**8**||||
+|**9**||||
+|**10**||||
+|**11**||||
+|**12**||||
+|**13**||||
+|**14**||||
+|**15**||||
+|**16**||||
+|**17**||||
+|**18**||||
+|**19**||||
+|**20**||||
+|**21**||||
+|**22**||||
+|**23**||||
+|**24**||||
+|**25**||||
+|**26**||||
+|**27**||||
+|**28**||||
+|**29**||||
+|**30**||||
+|**31**||||
+|**32**||||
+|**33**||||
+|**34**||||
+|**35**||||
+|**36**||||
+|**37**||||
+|**38**||||
+|**39**||||
+|**40**||||
+|**41**||||
+|**42**||||
+|**43**||||
+|**44**||||
+|**45**||||
+|**46**||||
+|**47**||||
+|**48**||||
+|**49**||||
+|**50**||||
+|**51**||||
+|**52**||||
+|**53**||||
+|**54**||||
+|**55**||||
+|**56**||||
+|**57**||||
+|**58**||||
+|**59**||||
+|**60**||||
+|**61**||||
+|**62**||||
+|**63**||||
+|**64**||||
+|**65**||||
+|**66**||||
+|**67**||||
+|**68**||||
+|**69**||||
+|**70**||||
+|**71**||||
+|**72**||||
+|**73**||||
+|**74**||||
+|**75**||||
+|**76**||||
+|**77**||||
+|**78**||||
+|**79**||||
+|**80**||||
+|**81**||||
+|**82**||||
+|**83**||||
+|**84**||||
+|**85**||||
+|**86**||||
+|**87**||||
+|**88**||||
+|**89**||||
+|**90**||||
+|**91**||||
+|**92**||||
+|**93**||||
+|**94**||||
+|**95**||||
+|**96**||||
+|**97**||||
+|**98**||||
+|**99**||||
+|**100**||||
