@@ -34,9 +34,6 @@ $m = 0.3 kg, \Delta t = 2 s, \Delta v = 6 m/s (a = \frac{\Delta v}{\Delta t}, F 
 
 ## Subiectul 2
 
-![figure3](../figures/figure3_mecanica_001_2009.png)
-
-
 ## Datele problemei
 
 $m_1 = 200 g = 0.2 kg$
