@@ -7,6 +7,7 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 - Materiale mecanica 2009 ([subiecte](https://matefizica.wordpress.com/wp-content/uploads/2017/04/e_f_fizica_mecanica.pdf) + [bareme](https://sprefizica.wordpress.com/wp-content/uploads/2013/09/rezolvari-mecanica-2009.pdf))
 - Materiale curent 2009 ([subiecte](https://matefizica.wordpress.com/wp-content/uploads/2017/04/e_f_fizica_producerea_si_utilizarea_curentului_continuu.pdf) + [bareme](https://matefizica.wordpress.com/bacalaureat/examen-fizica/variante-actuale/))
 - [Formule mecanica + termodinamica + curent](https://www.ebacalaureat.ro/bac/lectii/fizica/teorie-FIZICA-bacalaureat.pdf) + [supliment](https://www.studocu.com/ro/document/universitatea-alexandru-ioan-cuza-din-iasi/phylosophy/formule-curent/16349137)
+- [Marimi fizice fundamentale](https://electronicaaplicata.wordpress.com/2015/02/21/cele-7-marimi-fundamentale/)
 - [Bac romana - 67 de eseuri](https://www.studocu.com/ro/document/colegiul-national-petru-rares/romana/67-de-eseuri-bacalaureat-limba-i-literatura-romana-m-onofreipd/37359989)
 
 ## Agenda

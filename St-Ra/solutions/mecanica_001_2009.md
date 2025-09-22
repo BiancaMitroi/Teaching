@@ -96,3 +96,45 @@ m1: Oy: $G_1 - N = 0$
 m2: Oy: $T' - G_2 = 0$
 
 => $F' = F_f + T' = \mu * m_1 * g + m_2 * g = 0.4 N + 1 N = 1.4 N$
+
+## Subiectul 3
+
+![figure5](../figures/figure5_mecanica_001_2009.drawio.png)
+
+$P = 480 kW = 480 * 10^3 W = 480 000 W$
+
+$m = 400 t = 400 * 10^3 kg = 400 000 kg$
+
+$f = 0.015 => Fr = f * G = 0.015 * G$
+
+### a) v max = ?
+
+$P = \frac{L}{\Delta t} = \frac{F * d}{\Delta t} = F * v_{max}$
+
+Avand P-ul dat, presupunem ca trenul se misca cu v = ct => F de tractiune = Fr
+
+Vectorial:
+
+Ox: $\vec{F} + \vec{Fr} = \vec{0}$
+
+Oy: $\vec{G} + \vec{N} = \vec{0}$
+
+Scalar:
+
+Ox: F - Fr = 0 => $F = Fr = f * G = f * m * g = 0.015 * 400. 000 kg * 10m/s^2 = \frac{15}{\cancel{1000}} * 400.\cancel{000}kg * 10n/kg = 150 * 400 N = 60.000 N$
+
+$P = F * v => v = \frac{P}{F} = \frac{480. 000 W}{60.000 N} = 8m/s$
+
+Oy: G - N = 0
+
+### b) Ec max = ?
+
+$E_c = \frac{mv^2}{2} = \frac{400.000 kg * 64 m^2 / s^2}{2} = 128 * 10^5 J$
+
+### c) Lr = ?
+
+$E_{cFinal} - E_{cInitial} = L_{total} => L_{total} = - 128 * 10^5 J$
+
+### d) d oprire = ?
+
+$L_{total} = F_r * d_{oprire} => d_{oprire} = \frac{L_{total}}{F_r} = \frac{- 128 * 10^5 J}{- 6 * 10^4 N} = \frac{128}{6} * \frac{10^5}{10^4}m \~= 213m$
