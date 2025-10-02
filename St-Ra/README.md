@@ -24,6 +24,10 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 - mecanica 2009 var 1
 - curent 2009 var 2
 
+### 3 octombrie 2025
+
+- lucrat individual si la eventuale intrebari -> consultatii, altfel mergem mai departe cu variantele?
+
 ## Progres Mecanica 2009
 
 | var           | sub 1    | sub 2    | sub 3 |
