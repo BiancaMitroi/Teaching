@@ -33,7 +33,7 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | var           | sub 1    | sub 2    | sub 3 |
 | ------------- | -------- | -------- | ----- |
 | **1**   | &#x2714; | &#x2714; |   &#x2714;    |
-| **2**   |          |          |       |
+| **2**   |   &#x2714;       |      &#x2714;    |    &#x2714;   |
 | **3**   |          |          |       |
 | **4**   |          |          |       |
 | **5**   |          |          |       |
