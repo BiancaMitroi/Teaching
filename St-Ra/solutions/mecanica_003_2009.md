@@ -107,4 +107,4 @@ $v_0 = 45km/h = 45 \frac{1000m}{3600s} = 12.5m/s, t_1 = 0.2 min = 0.2 * 60s = 12
 
 ![figure3](../figures/figure3_mecanica_003_2009.drawio.png)
 
-d) $$ E_0 = 0J, E_{375} = -1MJ => \Delta E_p = -1MJ $$
+d) ![figure4](../figures/figure4_mecanica_003_2009.png)
