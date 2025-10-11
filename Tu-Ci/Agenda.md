@@ -36,3 +36,8 @@ For the next meeting, the topic would be: densitate, volum (test next Thursday)
 - Exercises from
 - ~~convert to PDF + move to PDF folder the current markdown file~~
 - ~~commit changes~~
+
+## 11 octombrie 2025
+
+- descompunerea forte (greutatea)
+- materiale de lucru
