@@ -21,7 +21,7 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 ### 16 septembrie
 
 - ~~curent 2009 var 1 sub 3~~
-- mecanica 2009 var 1
+- ~~mecanica 2009 var 1~~
 - curent 2009 var 2
 
 ### 3 octombrie 2025
