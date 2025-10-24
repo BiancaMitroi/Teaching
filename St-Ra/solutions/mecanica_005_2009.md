@@ -51,15 +51,15 @@ c) $\mu = ?$
 
 Vectorial:
 
-Ox:$\vec{F} + \vec{F_f} = m \vec{a}$
+Ox: $\vec{F} + \vec{F_f} = m \vec{a}$
 
-Oy:$\vec{G} + \vec{N} = \vec{0}$
+Oy: $\vec{G} + \vec{N} = \vec{0}$
 
 Scalar:
 
-Ox:$F - F_f = m a$
+Ox: $F - F_f = m a$
 
-Oy:$G - N = 0$
+Oy: $G - N = 0$
 
 => N = G = mg, $F_f = F - ma, F_f = \mu N$ =>
 
