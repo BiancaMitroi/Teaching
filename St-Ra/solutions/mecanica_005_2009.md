@@ -61,7 +61,7 @@ Ox: $F - F_f = m a$
 
 Oy: $G - N = 0$
 
-=> N = G = mg, $F_f = F - ma, F_f = \mu N => \mu = \frac{F_f}{N} = \frac{F - ma}{mg} = \frac{10N - 2kg*2N/kg}{2kg*10 N/kg} = 0.3$
+![figure6](../figures/figure6_mecanica_005_2009.png)
 
 d) 
 ![figure4](../figures/figures_mecanica_005_2009-Sub2%20d.drawio.png)
