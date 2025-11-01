@@ -88,7 +88,7 @@ Oy: $G - N = 0$
 
 ![figure5](../figures/figures_mecanica_005_2009-sub3.drawio.png)
 
-m = 1kg, $\alpha = 30, \mu = 0.25 (pe planul orizontal), v = 25 m/s (la baza planului inclinat)$
+m = 1kg, $\alpha = 30\degree, \mu = 0.25 (pe planul orizontal), v = 25 m/s (la baza planului inclinat)$
 
 a) $E_{cB} = \frac{mv^2}{2} = \frac{1kg*625m^2/s^2}{2} = 312.5J$
 

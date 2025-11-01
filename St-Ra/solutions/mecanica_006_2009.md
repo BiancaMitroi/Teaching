@@ -5,19 +5,22 @@
 
 $mgh = \frac{mv^2}{2} => v = \sqrt{2gh} (c))$ (Sau din Lege lui Galilei: $v_f^2 = v_i^2 + 2ad$, a = g, d = h, $v_i = 0$)
 
-4. #### desen 1
+4. 
+![figure1](../figures/figures_mecanica_006_2009-Page-1.drawio.png)
 Vectorial pt sistem:
 $\vec{F} + \vec{5F_f} = 5m\vec{a}$
 Scalar:
 $F - 5F_f = 5ma$
 $a = \frac{F - 5F_f}{5m} = \frac{F - 5 \mu mg}{5m} < \frac{F}{5m} => 5\mu mg > 0 => \mu > 0$ => c) intre corpuri şi suprafaţa orizontală există frecare
 
-5. #### desen 2
+5.
+![figure2](../figures/figures_mecanica_006_2009-Page-2.drawio.png)
 
 $L_G = \vec{G}\vec{d} = Gdcos(unghi dintre G si d) = -Gd = -3000 kg * 10 N/kg * 1500 m = - 45 * 10^6 J = -45MJ$ (b)
  
 ## Subiectul 2
-a) #### desen 3
+a) 
+![figure3](../figures/figures_mecanica_006_2009-Page-3.drawio.png)
 b)
 Vectorial pt A:
 Ox:$\vec{T} + \vec{G_t} = \vec{0}$
@@ -31,7 +34,8 @@ Scalar pt B: $T - G_b = 0$
 $G_t = G_A sin \alpha = 1.5N$
 $G_n = G_A cos \alpha = 3\frac{\sqrt3}{2}N$
 ...=> $m_B = \frac{3}{20}kg$
-c) #### desen 4
+c)
+![figure4](../figures/figures_mecanica_006_2009-Page-4.drawio.png)
 $F_t^2 = T^2+T^2-2T*T*cos(120) = 2T^2 + 2T^2*\frac{1}{2} = 3T^2$
 => $F_t = 2*T\sqrt{3}/2 = T\sqrt{3}$
 $T = G_t = 1.5N => T\sqrt{3} = G_t\sqrt{3} = 1.5\sqrt{3}$
