@@ -27,11 +27,8 @@ $F_1 = Fcos\alpha_1 = Fsin\alpha_2 => cos\alpha_1 = \frac{F_1}{F} = \frac{1}{2} 
 d) $Scalar: -F_f = ma' => a' = -\frac{F_f}{m} = -2m/s^2$
 ## Subiectul 3
 a) v = ct => rezultanta fortelor este 0 (nu este ca in barem) (P = Fv => F) (In schimb forta de traciune se poate afla din putere si viteza)
-b) L rezistent
-
-$ \Delta E_c = L_{total} <=> E_{cf} - E_{ci} = L_{rezistent} = 0 - \frac{m*v^2}{2} = - \frac{800 kg * 225 m^2/s^2}{2} = - 90 kJ $
-
-$ 54*\frac{1000m}{3600s} = 15m/s $
+b)
+![fogure6](../figures/mecanica_007_2009.png)
 
 d) $ \Delta t = ? $
 $P = \frac{L}{\Delta t} => \Delta t = \frac{L}{P} = \frac{90kJ}{15kW} = 6s$ (nu e ca in barem)
