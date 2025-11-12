@@ -28,9 +28,12 @@ d) $Scalar: -F_f = ma' => a' = -\frac{F_f}{m} = -2m/s^2$
 ## Subiectul 3
 a) v = ct => rezultanta fortelor este 0 (nu este ca in barem) (P = Fv => F) (In schimb forta de traciune se poate afla din putere si viteza)
 b) L rezistent
-$\Delta E_c = L_{total} <=> E_{cf} - E_{ci} = L_{rezistent} = 0 - \frac{m*v^2}{2} = - \frac{800 kg * 225 m^2/s^2}{2} = - 90 kJ$
-$54*\frac{1000m}{3600s} = 15m/s$
-d) $\Delta t = ?$
+
+$ \Delta E_c = L_{total} <=> E_{cf} - E_{ci} = L_{rezistent} = 0 - \frac{m*v^2}{2} = - \frac{800 kg * 225 m^2/s^2}{2} = - 90 kJ $
+
+$ 54*\frac{1000m}{3600s} = 15m/s $
+
+d) $ \Delta t = ? $
 $P = \frac{L}{\Delta t} => \Delta t = \frac{L}{P} = \frac{90kJ}{15kW} = 6s$ (nu e ca in barem)
 c)
 $v_f = v_i + a \Delta t => a = \frac{v_f - v_i}{\Delta t} = \frac{-15m/s}{6s} = 2.5 m/s^2$ (nu e ca in barem)
