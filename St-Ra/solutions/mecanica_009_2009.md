@@ -11,10 +11,7 @@ $\sigma = \frac{F}{S}$
 
 4. 
 
-$d/2 = v_1 * t_1 ; (v1 = 20 m/s) => t_1 = \frac{\frac{d}{2}}{v_1}$
-$d/2 = v_2 * t_2 ; (v2 = 30 m/s) => t_2 = \frac{\frac{d}{2}}{v_2}$
-
-$v_m = \frac{d_{total}}{t_{total}}= \frac{d}{t_1 + t_2} = \frac{d}{\frac{\frac{d}{2}}{v_1} + \frac{\frac{d}{2}}{v_2}} = \frac{d}{\frac{\frac{d}{2}v_2}{v_1v_2} + \frac{\frac{d}{2}v_1}{v_1v_2}} = \frac{2v_1v_2}{v_1 + v_2} = \frac{2*20*30}{50} = 24 m/s$ a)
+![figure11](../figures/mecanica_009_2009-Page-11.png)
 
 5. ![figure2](../figures/figures_mecanica_009_2009-Page-2.drawio.png)
 
@@ -43,11 +40,11 @@ $v = \sqrt{\frac{2E_{cB}}{m}} = 10\sqrt{2}m/s$
 
 c) ![figure7](../figures/figures_mecanica_009_2009-Page-7.drawio.png)
 
-$E'_{cB} - E'_{cA} = L'_{total} (= L'_F, E'_{cB} = 0) = -Fd => d = \frac{E_{cA}}{F} = \frac{400J}{20N} = 20m$
+![figure10](../figures/mecanica_009_2009-Page-10.png)
 
 d) ![figure8](../figures/figures_mecanica_009_2009-Page-8.drawio.png)
 
-$E''_{B} - E''_{A} = L''_{F_f}$
+$E_{B} - E_{A} = L_{F_f}$
 
 $E_{pB} - E_{cA} = -F_fd$
 
