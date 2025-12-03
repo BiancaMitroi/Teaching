@@ -19,9 +19,7 @@ b) Rezistenta exterioara nula => scurtcircuit pe baterie => U = 0 => I = 5A
 
 c) r = $\frac{E}{I_s} = \frac{50V}{5A} = 10 \Omega$
 
-d) Pt 
-
-$U = 30V => I = 2A = \frac{N e}{\Delta t} => \frac{N}{\Delta t} = \frac{2A}{1.6*10^{-19}C} = 1.25*10^{19} s^{-1}$ (din grafic)
+![figure4](../figures/rez_curent_3_dec_2025.png)
 
 ## Rezolvari curent varianta 7 subiectul 1
 
