@@ -1,7 +1,7 @@
 ## Rezolvari curent varianta 5 subiectul 1
 3. 
 ![figure1](../figures/rez_curent_3_dec_2025-Page-1.drawio.png)
-I-uri la scurtcircuit => $I_paralel = I_1 + I_2 + I_3 = 30A$
+I-uri la scurtcircuit => $I_{paralel} = I_1 + I_2 + I_3 = 30A$
 
 $E = \frac{\frac{E_1}{r_1} + \frac{E_2}{r_2} + \frac{E_3}{r_3}}{\frac{1}{r_p}} = \frac{I_1 + I_2 + I_3}{\frac{1}{r_p}} = \frac{30A}{\frac{1}{1.2\Omega}} = 36V$ d)
 
@@ -19,7 +19,9 @@ b) Rezistenta exterioara nula => scurtcircuit pe baterie => U = 0 => I = 5A
 
 c) r = $\frac{E}{I_s} = \frac{50V}{5A} = 10 \Omega$
 
-d) Pt $U = 30V => I = 2A = \frac{N e}{\Delta t} => \frac{N}{\Delta t} = \frac{2A}{1.6*10^{-19}C} = 1.25*10^{19} s^{-1}$ (din grafic)
+d) Pt 
+
+$U = 30V => I = 2A = \frac{N e}{\Delta t} => \frac{N}{\Delta t} = \frac{2A}{1.6*10^{-19}C} = 1.25*10^{19} s^{-1}$ (din grafic)
 
 ## Rezolvari curent varianta 7 subiectul 1
 
