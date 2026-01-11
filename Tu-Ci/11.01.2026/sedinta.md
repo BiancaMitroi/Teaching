@@ -28,7 +28,7 @@ $\Delta E_c = L_{total} => E_{cC} - E_{cB} = L_{F_f} => 0 - 250J = L_{F_f} = -25
 
 c) $L_{F_f} = -F_f d$
 
-$F_f = \mu_2N = \mu_2mg => d = \frac{L_{F_f}}{\mu_2mg} = \frac{250J}{2*5kg*10N/kg} = 2,5m$
+![figure3](./figure3.png)
 
 2. 
 
