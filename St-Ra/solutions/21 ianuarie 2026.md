@@ -43,8 +43,7 @@ $0 - \frac{mv_1^2}{2} = m a d_1$ => $a = -\frac{v_1^2}{2d_1}$
 
 Pentru cazul 2 similar:
 
-$0 - \frac{mv_2^2}{2} = m a d_2$ => $d_2 = -\frac{v_2^2}{2a} = \frac{-v_2^2}{2} *-\frac{2d_1}{v_1^2} = \frac{v_2^2d_1}{v_1^2} = \frac{120^2 km^2/h^2 35*10^{-3}km}{60^2km^2/h^2} = 140m $ (d))
-
+![figure5](../figures/21%20ianuarie%202026%20figure5.png)
 ## Subiectul 1 Curent Varianta 11
 
 1. d)
