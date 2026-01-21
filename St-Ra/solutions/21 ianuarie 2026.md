@@ -21,6 +21,7 @@ $L_{total} = 2 * L_{partial} = \frac{mgsin\alpha l}{2} (b)) $
 - La diferite momente de timp, o bucata din snur care este pe o portiune de plan se modifica
 - Fiecare bucata din snur parcurge o anumita lungime care poate diferi de lungimea totala a planului
 - Pentru asta se face media dintre ce era in starea initiala si finala (atunci cand snurul se afla pe un anumit plan)
+[cu discutie](https://gemini.google.com/share/771c23ee3790)
 
 ## Subiectul 1 Mecanica Varianta 12
 
@@ -76,7 +77,7 @@ Pe ramura AB:
 $E = I(R+r)$
 
 $E = U_{AB} + u => U_{AB} = E - u = E - \frac{E}{r + R}r$
-c) cu discutie
+c) [cu discutie](https://gemini.google.com/share/46e77a6ea721)
 
 5. 
 ![figure4](../figures/21%20ianuarie%202026-Page-4.drawio.png)
