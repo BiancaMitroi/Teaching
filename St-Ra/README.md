@@ -43,7 +43,7 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | **7**   |&#x2714;|&#x2714;|&#x2714;|
 | **8**   |&#x2714;|&#x2714;|&#x2714;|
 | **9**   |&#x2714;|&#x2714;|&#x2714;|
-| **10**  |          |          |       |
+| **10**  |&#x2714;|&#x2714;|&#x2714;|
 | **11**  |          |          |       |
 | **12**  |          |          |       |
 | **13**  |          |          |       |
@@ -149,8 +149,8 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | **8**   |       |       |       |
 | **9**   |       |       |       |
 | **10**  |       |       |       |
-| **11**  |       |       |       |
-| **12**  |       |       |       |
+| **11**  |&#x2714;|       |       |
+| **12**  |&#x2714;|       |       |
 | **13**  |       |       |       |
 | **14**  |       |       |       |
 | **15**  |       |       |       |
