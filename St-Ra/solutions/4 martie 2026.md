@@ -10,9 +10,9 @@
 $E_A = E_B = E_C, E_A = E_{cA} + E_{pA}, E_{cC} = E_{pC}$
 
 $E_{cA} = \frac{mv_0^2}{2}$ 
-$E_{pA} = mgH =>$ 
-$E_{C} = \frac{mv_0^2}{2} + mgH = E_{cC} + E_{pC} = 2*E_{pC} = 2mgh_c <=>$ 
-$\frac{v_0^2}{2} + gH = 2gh_c =>$ 
+$E_{pA} = mgH$ 
+$E_{C} = \frac{mv_0^2}{2} + mgH = E_{cC} + E_{pC} = 2*E_{pC} = 2mgh_c$ 
+$\frac{v_0^2}{2} + gH = 2gh_c$ 
 $h_c = \frac{\frac{v_0^2}{2} + gH}{2g} = \frac{\frac{16m^2/s^2}{2} + 10m/s^2*2m}{2*10m/s^2} = 1,4m$ (a)
 
 5. 
