@@ -134,6 +134,7 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | **98**  |          |          |       |
 | **99**  |          |          |       |
 | **100** |          |          |       |
+| **2024** |&#x2714;|&#x2714;|&#x2714; (fara c si d)|
 
 ## Progres Curent 2009
 
