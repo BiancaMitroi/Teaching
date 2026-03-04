@@ -49,7 +49,7 @@ $F_x - F_{f1} - F_e = m_1a <=> $
 $F cos \alpha - \mu (m_1g - F sin \alpha) - F_e = m_1a <=>$
 $F cos\alpha + \mu Fsin\alpha = m_1a + \mu m_1g + F_e =>$
 $F = \frac{m_1(a + \mu g) + F_e}{cos\alpha + \mu sin\alpha} = $
-$\frac{1kg(0,3m/s^2 + 0,2*10m/s^2) + 4,6N}{0,8 + 0,2*0,6} $ $= \frac{6,9N}{0,92} = 7,5N$
+$ \frac{1kg(0,3m/s^2 + 0,2*10m/s^2) + 4,6N}{0,8 + 0,2*0,6} $ $= \frac{6,9N}{0,92} = 7,5N$
 
 $m_1, Oy:$
 
