@@ -53,8 +53,8 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | **17**  |&#x2714;|          |       |
 | **18**  |&#x2714;|          |       |
 | **19**  |&#x2714;|          |       |
-| **20**  |          |          |       |
-| **21**  |          |          |       |
+| **20**  |&#x2714;|          |       |
+| **21**  |&#x2714;|          |       |
 | **22**  |          |          |       |
 | **23**  |          |          |       |
 | **24**  |          |          |       |
@@ -135,6 +135,7 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | **99**  |          |          |       |
 | **100** |          |          |       |
 | **2024** |&#x2714;|&#x2714;|&#x2714; (fara c si d)|
+| **2016 simulare** |&#x2714;||&#x2714;|
 
 ## Progres Curent 2009
 
@@ -158,9 +159,9 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | **16**  |&#x2714;|       |       |
 | **17**  |&#x2714;|       |       |
 | **18**  |&#x2714;|       |       |
-| **19**  |       |       |       |
-| **20**  |       |       |       |
-| **21**  |       |       |       |
+| **19**  |&#x2714;|       |       |
+| **20**  |&#x2714;|       |       |
+| **21**  |&#x2714;|       |       |
 | **22**  |       |       |       |
 | **23**  |       |       |       |
 | **24**  |       |       |       |
@@ -240,3 +241,4 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | **98**  |       |       |       |
 | **99**  |       |       |       |
 | **100** |       |       |       |
+| **2016 simulare** |&#x2714;|&#x2714;|&#x2714;|
