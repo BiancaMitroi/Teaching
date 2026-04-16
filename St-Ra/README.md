@@ -55,8 +55,8 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | **19**  |&#x2714;|          |       |
 | **20**  |&#x2714;|          |       |
 | **21**  |&#x2714;|          |       |
-| **22**  |          |          |       |
-| **23**  |          |          |       |
+| **22**  |&#x2714;|          |       |
+| **23**  |&#x2714;|          |       |
 | **24**  |          |          |       |
 | **25**  |          |          |       |
 | **26**  |          |          |       |
@@ -162,7 +162,7 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | **19**  |&#x2714;|       |       |
 | **20**  |&#x2714;|       |       |
 | **21**  |&#x2714;|       |       |
-| **22**  |       |       |       |
+| **22**  |&#x2714;|       |       |
 | **23**  |       |       |       |
 | **24**  |       |       |       |
 | **25**  |       |       |       |
