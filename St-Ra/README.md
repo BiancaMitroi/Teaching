@@ -9,6 +9,7 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 - [Formule mecanica + termodinamica + curent](https://www.ebacalaureat.ro/bac/lectii/fizica/teorie-FIZICA-bacalaureat.pdf) + [supliment](https://www.studocu.com/ro/document/universitatea-alexandru-ioan-cuza-din-iasi/phylosophy/formule-curent/16349137)
 - [Marimi fizice fundamentale](https://electronicaaplicata.wordpress.com/2015/02/21/cele-7-marimi-fundamentale/)
 - [Bac romana - 67 de eseuri](https://www.studocu.com/ro/document/colegiul-national-petru-rares/romana/67-de-eseuri-bacalaureat-limba-i-literatura-romana-m-onofreipd/37359989)
+- [simulari](https://subiectebac.ro/fizica/fizica.html)
 
 ## Agenda
 
@@ -29,6 +30,8 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 - lucrat individual si la eventuale intrebari -> consultatii, altfel mergem mai departe cu variantele?
 
 - de lucrat doar mecanica pana la alte update-uri
+<div style="display: flex">
+<div>
 
 ## Progres Mecanica 2009
 
@@ -137,6 +140,9 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | **2024** |&#x2714;|&#x2714;|&#x2714; (fara c si d)|
 | **2016 simulare** |&#x2714;||&#x2714;|
 
+</div>
+<div>
+
 ## Progres Curent 2009
 
 | var           | sub 1 | sub 2 | sub 3 |
@@ -242,3 +248,6 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | **99**  |       |       |       |
 | **100** |       |       |       |
 | **2016 simulare** |&#x2714;|&#x2714;|&#x2714;|
+
+</div>
+</div>
