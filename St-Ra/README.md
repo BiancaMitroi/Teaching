@@ -30,6 +30,7 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 - lucrat individual si la eventuale intrebari -> consultatii, altfel mergem mai departe cu variantele?
 
 - de lucrat doar mecanica pana la alte update-uri
+
 <div style="display: flex">
 <div>
 
