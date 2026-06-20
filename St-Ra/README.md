@@ -139,9 +139,13 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | **2024** |&#x2714;|&#x2714;|&#x2714; (fara c si d)|
 | **2016 simulare** |&#x2714;||&#x2714;|
 | **2023 simulare** |&#x2714;|&#x2714;|&#x2714;|
+| **2023 examen** ||&#x2714;||
 | **2022 simulare** |&#x2714;|&#x2714;|&#x2714;|
+| **2022 examen** |||d|
 | **2021 simulare** |&#x2714;|&#x2714;|&#x2714;|
+| **2021 examen** |ex 4|||
 | **2026 speciala** |&#x2714;|&#x2714;||
+| **2010 examen** |||d|
 
 
 | var           | sub 1 | sub 2 | sub 3 |
