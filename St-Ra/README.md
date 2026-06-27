@@ -146,6 +146,8 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | **2021 examen** |ex 4|||
 | **2026 speciala** |&#x2714;|&#x2714;||
 | **2010 examen** |||d|
+| **2025 examen** |||&#x2714;|
+| **2019 examen** |&#x2714;|||
 
 
 | var           | sub 1 | sub 2 | sub 3 |
@@ -253,3 +255,4 @@ Note: Here will be posted materials + solutions for high school Physics final ex
 | **2016 simulare** |&#x2714;|&#x2714;|&#x2714;|
 | **2022 simulare** |&#x2714;|&#x2714;|&#x2714;|
 | **2021 simulare** |&#x2714;|&#x2714;||
+| **2019 examen** |&#x2714;|||
