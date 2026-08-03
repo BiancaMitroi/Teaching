@@ -34,9 +34,15 @@ Din Command Prompt comanda `wsl` + cele 2 comenzi recomandate, la a doua cu dist
 
 ## 3 august
 
-- Referinte in memorie
-- Liste inlantuite
-- Vectori
-- Recursivitate
-- Functii
-- Antet de functie
+- ~~Referinte in memorie~~
+- ~~Liste inlantuite~~
+- ~~Vectori~~
+- ~~Recursivitate~~
+- ~~Functii~~
+- ~~Antet de functie~~
+
+## 10 august
+
+- operatii de siruri (in paralel pe liste simplu inlantuite si pe vectori alocati dinamic)
+- stive/cozi
+- tabele de dispersie
