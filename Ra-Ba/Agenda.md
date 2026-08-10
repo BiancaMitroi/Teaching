@@ -43,6 +43,17 @@ Din Command Prompt comanda `wsl` + cele 2 comenzi recomandate, la a doua cu dist
 
 ## 10 august
 
-- operatii de siruri (in paralel pe liste simplu inlantuite si pe vectori alocati dinamic)
-- stive/cozi
-- tabele de dispersie
+- ~~operatii de siruri (in paralel pe liste simplu inlantuite si pe vectori alocati dinamic)~~
+- ~~stive/cozi~~
+- ~~tabele de dispersie~~
+- ramane pe ora 10 pe Meet
+- site-uri pentru practice:
+   - [W3Schools](https://www.w3schools.com/dsa/dsa_intro.php) (teorie)
+   - [GeeksForGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) (teorie)
+   - [Leetcode](https://leetcode.com/problemset/all-code-essentials/) (practice)
+
+![figure4](./figures/leetcode.png)
+
+## 17 august 2026
+- tabele de dispersie + stive + cozi - practice
+- abori
