@@ -51,6 +51,7 @@ Din Command Prompt comanda `wsl` + cele 2 comenzi recomandate, la a doua cu dist
    - [W3Schools](https://www.w3schools.com/dsa/dsa_intro.php) (teorie)
    - [GeeksForGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) (teorie)
    - [Leetcode](https://leetcode.com/problemset/all-code-essentials/) (practice)
+   - [PbInfo Liste](https://www.pbinfo.ro/?pagina=itemi-evaluare-lista&disciplina=0&clasa=10&tag=110&subtag=111&eticheta=0) (practice)
 
 ![figure4](./figures/leetcode.png)
 
