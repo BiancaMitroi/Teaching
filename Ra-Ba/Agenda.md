@@ -55,6 +55,10 @@ Din Command Prompt comanda `wsl` + cele 2 comenzi recomandate, la a doua cu dist
 
 ![figure4](./figures/leetcode.png)
 
-## 17 august 2026
+## 18 august 2026
 - tabele de dispersie + stive + cozi - practice
 - abori
+
+## 24 august 2026
+- arbori - operatii
+- recapitulare (tabele de disspersie - factorul de umplere)
