@@ -59,6 +59,12 @@ Din Command Prompt comanda `wsl` + cele 2 comenzi recomandate, la a doua cu dist
 - tabele de dispersie + stive + cozi - practice
 - abori
 
-## 24 august 2026
-- arbori - operatii
-- recapitulare (tabele de disspersie - factorul de umplere)
+## 25 august 2026
+- arbori - operatii (de pus stergerea)
+- ~~recapitulare (tabele de disspersie - factorul de umplere)~~
+- site de sortare de elemente: https://sortvisualizer.com/
+
+## 31 august 2026
+
+- arbori rosu negru
+- metode de sortare 
