@@ -69,9 +69,12 @@ Din Command Prompt comanda `wsl` + cele 2 comenzi recomandate, la a doua cu dist
 - ~~arbori rosu negru - de rescris algoritmul de insert fix~~
 - scris cod C
 - ~~refacut arbori~~
-- de pus pe git
+- ~~de pus pe git~~
 - metode de sortare 
 - [operatii vizuale pe arbori red-black](https://ds2-iiith.vlabs.ac.in/exp/red-black-tree/red-black-tree-oprations/simulation/redblack.html)
 
 ## 8 septembrie 2026
-- algoritmul de stergere nod in arbore rosu-negru
+- algoritmul de stergere nod in arbore rosu-negru - de comentat codul 
+- heap
+- git
+- recapitulare saptamana viitoare
