@@ -6,6 +6,8 @@
 - Inaltimea unui nod = distanta de la nod pana la cea mai indepartata frunza
 - Inaltimea heap-ului = inaltimea radacinii
 
+![figure1](14%20septembrie%202026.drawio.png)
+
 Pentru figura, avem: (heap-size = 10, heap-length = 16)
 
 i = 1
@@ -25,5 +27,5 @@ Se coboara nodul
 - Pentru a mentine structura de max-heap, avem n apeluri de max-heapify, iar algoritmul dureaza logn => O(nlogn)
 - Heapsort
 - inserare, stergere
-- Mergesort, insertionsort, quicksort - scheme/animatii
+- Mergesort, insertionsort, quicksort
 - programare dinamica
