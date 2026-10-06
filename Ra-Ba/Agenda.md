@@ -81,3 +81,6 @@ Din Command Prompt comanda `wsl` + cele 2 comenzi recomandate, la a doua cu dist
 
 ## 22 septembrie 2026
 - https://ocw.cs.pub.ro/courses/sda-ab/laboratoare/08
+
+## 6 octombrie 2026
+- problema inmultirii matricilor - de discutat
